@@ -1,4 +1,4 @@
-# minor_project
+
 # Title: Generative AI Development and Object Inpainting
 
 Project Description:
